@@ -8,7 +8,6 @@
 
 
 ![Alt text](image.png)
-
 ***Note that the animation should be undone after the key is pressed for a pleasing look***
 
 
