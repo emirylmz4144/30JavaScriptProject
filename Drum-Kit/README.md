@@ -7,7 +7,7 @@
 > The main purpose of the project is to show which key is pressed with animation when the keys are pressed and to make the sound written under the keys when that key is pressed. likes below
 
 
-![Alt text](image.png)
+![](images/pressKeyActions.jpg)
 ***Note that the animation should be undone after the key is pressed for a pleasing look***
 
 
